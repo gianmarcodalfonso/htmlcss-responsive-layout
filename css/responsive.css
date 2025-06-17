@@ -66,4 +66,10 @@
   .social-networks .btn {
     padding: 10px 2.5em;
   }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+  }
 }
