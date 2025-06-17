@@ -3,4 +3,8 @@
   #topbar {
     justify-content: start;
   }
+
+  main {
+    padding: 40px;
+  }
 }
