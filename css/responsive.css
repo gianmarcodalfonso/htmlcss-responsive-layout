@@ -24,4 +24,8 @@
   .quick-notes ul>* {
     width: calc(100% / 3);
   }
+
+  .social-networks .btn {
+    padding: 10px 4em;
+  }
 }
