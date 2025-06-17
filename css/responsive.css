@@ -1,4 +1,12 @@
 /* Soluzione qui */
+
+/* Large mobile */
+@media all and (min-width: 576px) {
+  .clearfix img {
+    float: left;
+  }
+}
+
 @media all and (min-width: 768px) {
   #topbar {
     justify-content: start;
@@ -31,10 +39,6 @@
 
   .ads {
     display: block;
-  }
-
-  .clearfix img {
-    float: left;
   }
 }
 
