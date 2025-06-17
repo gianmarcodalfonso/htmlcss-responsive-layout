@@ -28,4 +28,8 @@
   .social-networks .btn {
     padding: 10px 4em;
   }
+
+  .ads {
+    display: block;
+  }
 }
