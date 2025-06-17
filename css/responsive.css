@@ -5,6 +5,11 @@
   .clearfix img {
     float: left;
   }
+
+  .social-networks .btn {
+    padding: 10px 2.5em;
+  }
+
 }
 
 @media all and (min-width: 768px) {
