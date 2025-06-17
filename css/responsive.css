@@ -58,4 +58,12 @@
   .quick-notes ul>* {
     width: 100%;
   }
+
+  .social-networks .label {
+    display: inline-block;
+  }
+
+  .social-networks .btn {
+    padding: 10px 2.5em;
+  }
 }
