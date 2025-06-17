@@ -11,4 +11,8 @@
   .recipe-origin {
     display: inline-block;
   }
+
+  h2 {
+    font-size: 1.8rem;
+  }
 }
